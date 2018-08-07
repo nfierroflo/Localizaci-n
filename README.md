@@ -1,2 +1,2 @@
-# Localizaci-n
+# Localizacion
 Proyecto mecatronica
